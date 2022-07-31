@@ -1,0 +1,15 @@
+/home/alex-comp/Рабочий стол/controlWork1/Task/bin/Debug/net6.0/Task
+/home/alex-comp/Рабочий стол/controlWork1/Task/bin/Debug/net6.0/Task.deps.json
+/home/alex-comp/Рабочий стол/controlWork1/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/home/alex-comp/Рабочий стол/controlWork1/Task/bin/Debug/net6.0/Task.dll
+/home/alex-comp/Рабочий стол/controlWork1/Task/bin/Debug/net6.0/Task.pdb
+/home/alex-comp/Рабочий стол/controlWork1/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/home/alex-comp/Рабочий стол/controlWork1/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex-comp/Рабочий стол/controlWork1/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/home/alex-comp/Рабочий стол/controlWork1/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/home/alex-comp/Рабочий стол/controlWork1/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/home/alex-comp/Рабочий стол/controlWork1/Task/obj/Debug/net6.0/Task.dll
+/home/alex-comp/Рабочий стол/controlWork1/Task/obj/Debug/net6.0/refint/Task.dll
+/home/alex-comp/Рабочий стол/controlWork1/Task/obj/Debug/net6.0/Task.pdb
+/home/alex-comp/Рабочий стол/controlWork1/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/home/alex-comp/Рабочий стол/controlWork1/Task/obj/Debug/net6.0/ref/Task.dll
